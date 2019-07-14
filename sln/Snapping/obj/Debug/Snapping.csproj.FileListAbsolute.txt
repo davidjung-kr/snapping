@@ -1,0 +1,9 @@
+C:\Users\ZHANITEST\Documents\SharpDevelop Projects\Snapping\Snapping\bin\Debug\Snapping.exe.config
+C:\Users\ZHANITEST\Documents\SharpDevelop Projects\Snapping\Snapping\bin\Debug\Snapping.exe
+C:\Users\ZHANITEST\Documents\SharpDevelop Projects\Snapping\Snapping\bin\Debug\Snapping.pdb
+C:\Users\ZHANITEST\Documents\SharpDevelop Projects\Snapping\Snapping\obj\Debug\Snapping.csprojResolveAssemblyReference.cache
+C:\Users\ZHANITEST\Documents\SharpDevelop Projects\Snapping\Snapping\obj\Debug\Snapping.exe
+C:\Users\ZHANITEST\Documents\SharpDevelop Projects\Snapping\Snapping\obj\Debug\Snapping.pdb
+C:\Users\ZHANITEST\Documents\SharpDevelop Projects\Snapping\Snapping\obj\Debug\Snapping.MainForm.resources
+C:\Users\ZHANITEST\Documents\SharpDevelop Projects\Snapping\Snapping\obj\Debug\Snapping.csproj.GenerateResource.Cache
+C:\Users\ZHANITEST\Documents\SharpDevelop Projects\Snapping\Snapping\obj\Debug\Snapping.InfoForm.resources
